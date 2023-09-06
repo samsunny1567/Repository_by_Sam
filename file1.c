@@ -15,7 +15,7 @@ int main()
     printf("Presenting my calculator created       by Samunni :) \n");
     printf("enter 1 for addition , 2 for subtraction 3 for multiplication 4 for division\n 5 for power:  ");
     scanf("%d",&select);
-    printf("enter first number: ");
+    printf("enter first num  ber: ");
     scanf("%d",&x);
     printf("enter second number :");
     scanf("%d",&y);

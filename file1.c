@@ -11,6 +11,7 @@ int main()
 {
     int x,y,select;
     int result=0;
+    printf("Hello minions");
     printf("Presenting my calculator :) \n");
     printf("enter 1 for addition , 2 for subtraction 3 for multiplication 4 for division\n 5 for power:  ");
     scanf("%d",&select);
